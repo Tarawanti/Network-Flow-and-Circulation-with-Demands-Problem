@@ -1,6 +1,5 @@
-# Network-Flow-and-Circulation-with-Demands-Problem
-# To Execute Advanced Algorithms, Project 1 - Network Flow and
-Circulation with Demands Problem
+#To execute Network-Flow-and-Circulation-with-Demands-Problem
+ 
 
 1. The source code and test cases should be in the same folder.
 2. There should be a blank line for sink. If sink is the last node, there should be
